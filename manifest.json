@@ -1,0 +1,28 @@
+{
+  "short_name": "Music masterpiece",
+  "name": "Change the music world",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_colour": "#020617",
+  "background_colour": "#020617",
+  "icons":[
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1160/1160358.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
+
+"icons":[
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]

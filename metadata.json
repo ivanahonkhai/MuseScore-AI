@@ -1,0 +1,5 @@
+{
+  "name": "MuseScore AI",
+  "description": "An interactive music composition tool with a visual staff editor, synthesizer playback, and AI-powered melody suggestions using Gemini.",
+  "requestFramePermissions": []
+}
